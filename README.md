@@ -239,6 +239,8 @@ The solutions across these labs follow:
 * 📜 AWS Cloud Quest: Generative AI Practitioner Badge
 * 🔗 *https://www.credly.com/badges/45ffa510-cf69-4ca3-b84f-ddf3cb43eea9/public_url*
 
+[![AWS Badge](https://img.shields.io/badge/Click%20Me-View%20AWS%20Badge-orange?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/45ffa510-cf69-4ca3-b84f-ddf3cb43eea9/public_url)
+
 ---
 
 ## 📂 Repository Structure
