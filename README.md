@@ -76,7 +76,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Generated Webpage](/images/pic1.png)
+![Generated Webpage](images/pic1.png)
 
 <p align="center">
   <img src="images/pic1.png" width="600"/>
