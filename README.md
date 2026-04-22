@@ -40,7 +40,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 2️⃣ Explore Amazon Bedrock Playgrounds
 
 **Description:**
@@ -54,7 +53,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 3️⃣ Generate Code for a Webpage
 
 **Description:**
@@ -65,7 +63,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 4️⃣ Get Started with Generative AI
 
 **Description:**
@@ -76,7 +73,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 5️⃣ Secure Conversational AI with Guardrails
 
 **Description:**
@@ -90,7 +86,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 6️⃣ Create an Enterprise Knowledge Assistant (RAG)
 
 **Description:**
@@ -103,7 +98,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 7️⃣ Create an AI Smart Assistant
 
 **Description:**
@@ -117,7 +111,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 8️⃣ Use AI Services with Amazon SageMaker
 
 **Description:**
@@ -128,7 +121,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 9️⃣ Build and Understand Code with Amazon Q
 
 **Description:**
@@ -139,7 +131,6 @@ The solutions across these labs follow:
 ```
 
 ---
-
 ### 🔟 Multi-Modal AI Integration
 
 **Description:**
@@ -150,11 +141,9 @@ The solutions across these labs follow:
   * *Amazon Polly* (speech)
   * *Translate & Transcribe*
 * Built multi-language AI workflows
-
 ```
 
 ---
-
 ## 🧰 AWS Services Used
 
 ### 🤖 Generative AI
