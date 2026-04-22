@@ -1,3 +1,7 @@
+
+
+---
+
 # 🚀 AWS Cloud Quest: Generative AI Practitioner
 
 This repository documents my hands-on journey through the **AWS Cloud Quest: Generative AI Practitioner** role-based learning path.
@@ -37,9 +41,12 @@ The solutions across these labs follow:
 * Established cloud foundations
 * Configured IAM roles, compute, and storage
 * Prepared infrastructure for AI workloads
+
+```
 ```
 
 ---
+
 ### 2️⃣ Explore Amazon Bedrock Playgrounds
 
 **Description:**
@@ -50,9 +57,12 @@ The solutions across these labs follow:
   * Creativity
   * Latency
   * Token efficiency
+
+```
 ```
 
 ---
+
 ### 3️⃣ Generate Code for a Webpage
 
 **Description:**
@@ -60,9 +70,12 @@ The solutions across these labs follow:
 * Used *Amazon Q Developer*
 * Generated and deployed a responsive UI
 * Accelerated frontend development
+
+```
 ```
 
 ---
+
 ### 4️⃣ Get Started with Generative AI
 
 **Description:**
@@ -70,9 +83,12 @@ The solutions across these labs follow:
 * Integrated *Amazon Bedrock APIs*
 * Used Python (*boto3*)
 * Handled model prompts and responses
+
+```
 ```
 
 ---
+
 ### 5️⃣ Secure Conversational AI with Guardrails
 
 **Description:**
@@ -83,9 +99,12 @@ The solutions across these labs follow:
   * PII filtering
   * Toxicity control
   * Safe AI responses
+
+```
 ```
 
 ---
+
 ### 6️⃣ Create an Enterprise Knowledge Assistant (RAG)
 
 **Description:**
@@ -95,9 +114,12 @@ The solutions across these labs follow:
 
   * Amazon OpenSearch (vector DB)
   * Context-aware retrieval
+
+```
 ```
 
 ---
+
 ### 7️⃣ Create an AI Smart Assistant
 
 **Description:**
@@ -108,9 +130,12 @@ The solutions across these labs follow:
   * Amazon S3
   * Amazon DynamoDB
 * Stored user data and responses
+
+```
 ```
 
 ---
+
 ### 8️⃣ Use AI Services with Amazon SageMaker
 
 **Description:**
@@ -118,9 +143,12 @@ The solutions across these labs follow:
 * Used *SageMaker JumpStart*
 * Deployed and tested ML models
 * Customized AI solutions
+
+```
 ```
 
 ---
+
 ### 9️⃣ Build and Understand Code with Amazon Q
 
 **Description:**
@@ -128,9 +156,12 @@ The solutions across these labs follow:
 * Explained legacy code
 * Generated unit tests
 * Optimized application logic
+
+```
 ```
 
 ---
+
 ### 🔟 Multi-Modal AI Integration
 
 **Description:**
@@ -141,9 +172,12 @@ The solutions across these labs follow:
   * *Amazon Polly* (speech)
   * *Translate & Transcribe*
 * Built multi-language AI workflows
+
+```
 ```
 
 ---
+
 ## 🧰 AWS Services Used
 
 ### 🤖 Generative AI
