@@ -76,7 +76,9 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Generated Webpage](images/pic1.png)
+📸 **Screenshot:**
+
+![Task Name](images/pic1.png)
 ```
 
 ---
