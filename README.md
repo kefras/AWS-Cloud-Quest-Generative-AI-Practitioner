@@ -77,6 +77,10 @@ The solutions across these labs follow:
 
 ```
 ![Generated Webpage](/images/pic1.png)
+
+<p align="center">
+  <img src="images/pic1.png" width="600"/>
+</p>
 ```
 
 ---
