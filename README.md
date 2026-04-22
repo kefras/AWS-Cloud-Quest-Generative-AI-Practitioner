@@ -237,7 +237,7 @@ The solutions across these labs follow:
 
 * ✅ Completed all assignments
 * 📜 AWS Cloud Quest: Generative AI Practitioner Badge
-* 🔗 *Add your Credly link here*
+* 🔗 *https://www.credly.com/badges/45ffa510-cf69-4ca3-b84f-ddf3cb43eea9/public_url*
 
 ---
 
