@@ -60,7 +60,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Bedrock Playground](./images/pic8.png)
+![Bedrock Playground](/images/pic8.png)
 ```
 
 ---
@@ -76,7 +76,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Generated Webpage](./images/pic1.png)
+![Generated Webpage](/images/pic1.png)
 ```
 
 ---
@@ -92,7 +92,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![GenAI Setup](./images/pic2.png)
+![GenAI Setup](/images/pic2.png)
 ```
 
 ---
@@ -111,7 +111,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Guardrails](./images/pic3.png)
+![Guardrails](/images/pic3.png)
 ```
 
 ---
@@ -129,7 +129,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![RAG Assistant](./images/pic5.png)
+![RAG Assistant](/images/pic5.png)
 ```
 
 ---
@@ -148,7 +148,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Smart Assistant](./images/pic6.png)
+![Smart Assistant](/images/pic6.png)
 ```
 
 ---
@@ -164,7 +164,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![SageMaker](./images/pic7.png)
+![SageMaker](/images/pic7.png)
 ```
 
 ---
@@ -180,7 +180,7 @@ The solutions across these labs follow:
 📸 **Screenshot:**
 
 ```
-![Amazon Q](./images/pic4.png)
+![Amazon Q](/images/pic4.png)
 ```
 
 ---
