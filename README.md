@@ -37,11 +37,6 @@ The solutions across these labs follow:
 * Established cloud foundations
 * Configured IAM roles, compute, and storage
 * Prepared infrastructure for AI workloads
-
-📸 **Screenshot:**
-
-```
-![Cloud Essentials](./images/cloud-essentials.png)
 ```
 
 ---
@@ -56,11 +51,6 @@ The solutions across these labs follow:
   * Creativity
   * Latency
   * Token efficiency
-
-📸 **Screenshot:**
-
-```
-![Bedrock Playground](/images/pic8.png)
 ```
 
 ---
@@ -72,13 +62,6 @@ The solutions across these labs follow:
 * Used *Amazon Q Developer*
 * Generated and deployed a responsive UI
 * Accelerated frontend development
-
-📸 **Screenshot:**
-
-```
-📸 **Screenshot:**
-
-![Task Name](images/pic1.png)
 ```
 
 ---
@@ -90,11 +73,6 @@ The solutions across these labs follow:
 * Integrated *Amazon Bedrock APIs*
 * Used Python (*boto3*)
 * Handled model prompts and responses
-
-📸 **Screenshot:**
-
-```
-![GenAI Setup](/images/pic2.png)
 ```
 
 ---
@@ -109,11 +87,6 @@ The solutions across these labs follow:
   * PII filtering
   * Toxicity control
   * Safe AI responses
-
-📸 **Screenshot:**
-
-```
-![Guardrails](/images/pic3.png)
 ```
 
 ---
@@ -127,11 +100,6 @@ The solutions across these labs follow:
 
   * Amazon OpenSearch (vector DB)
   * Context-aware retrieval
-
-📸 **Screenshot:**
-
-```
-![RAG Assistant](/images/pic5.png)
 ```
 
 ---
@@ -146,11 +114,6 @@ The solutions across these labs follow:
   * Amazon S3
   * Amazon DynamoDB
 * Stored user data and responses
-
-📸 **Screenshot:**
-
-```
-![Smart Assistant](/images/pic6.png)
 ```
 
 ---
@@ -162,11 +125,6 @@ The solutions across these labs follow:
 * Used *SageMaker JumpStart*
 * Deployed and tested ML models
 * Customized AI solutions
-
-📸 **Screenshot:**
-
-```
-![SageMaker](/images/pic7.png)
 ```
 
 ---
@@ -178,11 +136,6 @@ The solutions across these labs follow:
 * Explained legacy code
 * Generated unit tests
 * Optimized application logic
-
-📸 **Screenshot:**
-
-```
-![Amazon Q](/images/pic4.png)
 ```
 
 ---
@@ -198,10 +151,6 @@ The solutions across these labs follow:
   * *Translate & Transcribe*
 * Built multi-language AI workflows
 
-📸 **Screenshot:**
-
-```
-![Multimodal AI](./images/multimodal.png)
 ```
 
 ---
